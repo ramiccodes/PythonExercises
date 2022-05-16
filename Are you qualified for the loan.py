@@ -1,4 +1,3 @@
-
 income=int(input("How much is your annual income?:"))
 employment_time=int(input("How many years have you been with your company?:"))
 if income>=30000:
